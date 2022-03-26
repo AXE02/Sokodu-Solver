@@ -1,2 +1,2 @@
-# Sokodu-Solver
-Sokodu Sover code for LeetCode
+# Sudoku-Solver
+Sudoku Sover code for LeetCode
